@@ -11,9 +11,6 @@ require 'configuration'
 require 'people'
 require 'tempfile'
 
-# use a file cache
-require 'parsed_url_cache'
-
 defined? Nokogiri
 
 # Find the list of divisions from the AEC website for each postcode the Australia Post postcodes database.
@@ -27,14 +24,11 @@ class ParsePostcode
 #agent.cache_subdirectory = "parse-postcodes"
 
   def initialize()
-    @cache = ParsedUrlCache.new()
-
     @mech = Mechanize.new do |agent|
       agent.user_agent_alias = 'Mac Safari'
       agent.set_proxy('localhost',9999)
     end
   end
-
 
   # Just load the html
   def load_page(postcode)
@@ -76,45 +70,8 @@ class ParsePostcode
 #    !table_tag.search('> tr > td > a').map { |e| e.inner_text }.empty?
   end
 
-  def cache key, val
-    tf = Tempfile.new('googletrends', @path)
-    path = tf.path
-    tf.close! # important!
-
-    puts2 "Saving to cache (#{path})"
-    open(path, 'w') { |f|
-      f.write(val)
-      @cache[key] = path
-    }
-
-    save @datafile
-  end
-
-  def cache_exists? key
-    @cache.has_key? key
-  end
-
-  def uncache key
-    return nil unless exists?(key) && File.exists?(@cache[key])
-    open(@cache[key], 'r') { |f| f.read }
-  end
-
-  private
-  # Load saved cache
-  def load file
-    return File.exists?(file) ? YAML.load(open(file).read) : {}
-  end
-
-  # Save cache
-  def save path
-    open(path, 'w') { |f|
-      f.write @cache.to_yaml
-    }
-  end
-
 end
 #  ParsePostcode
-
 
 postcode_parser = ParsePostcode.new()
 
@@ -125,7 +82,7 @@ file.puts("Postcode,Electoral division name")
 file.puts(",")
 
 puts "Reading Australia post office data from data/pc-full_20080529.csv..."
-data = CSV.readlines("data/pc-full_20080529.csv")
+data = CSV.readlines("data/pc-full_20100629.csv")
 
 # Ignore header
 data.shift

@@ -27,7 +27,7 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="mechanize" version="0.9.2" bound="EQUAL" />
+        <dependency name="mechanize" version="0.9.2" bound="GREATER_OR_EQUAL" />
       </requirement>
       <source from="lib/environment.rb" />
     </requirement>
