@@ -1,67 +1,122 @@
 Postcode,Electoral division name
 ,
+0200,ACTON
 0200,Fraser
 0800,Solomon
 0801,Lingiari
+0810,ALAWA
+0810,BRINKIN
+0810,COCONUT GROVE
+0810,NAKARA
 0810,Solomon
+0810,TIWI
+0811,ALAWA
+0811,BRINKIN
+0811,NAKARA
 0811,Solomon
+0811,TIWI
+0812,ANULA
+0812,LEANYER
+0812,MARRARA
 0812,Solomon
-0813,Solomon
+0820,BAYVIEW
+0820,LARRAKEYAH
+0820,PARAP
+0820,STUART PARK
 0820,Solomon
+0820,THE NARROWS
+0820,WOOLNER
+0822,GALIWINKU
 0822,Lingiari
-0828,Lingiari
+0822,NGUIU
 0828,Solomon
+0829,Lingiari
 0829,Solomon
+0830,DRIVER
+0830,DURACK
+0830,GRAY
+0830,MOULDEN
 0830,Solomon
+0830,WOODROFFE
+0832,GUNN
 0832,Solomon
+0834,Lingiari
 0835,Lingiari
 0836,Lingiari
 0837,Lingiari
 0838,Lingiari
+0839,Lingiari
 0840,Lingiari
 0845,Lingiari
 0846,Lingiari
 0847,Lingiari
+0847,MARY RIVER WILDLIFE RANCH
 0850,Lingiari
+0852,BARUNGA
+0852,BULMAN
 0852,Lingiari
+0852,YANGULINYINA
 0853,Lingiari
+0854,DOOLGARINA
+0854,GARRINJINNY
 0854,Lingiari
+0860,KURRAYA
 0860,Lingiari
+0860,WANGALINJI
 0861,Lingiari
+0862,BAJAMINYI
+0862,BURRUMBURRU
+0862,HINGSTONS PLACE
+0862,LIKKAPARTA
 0862,Lingiari
 0870,Lingiari
+0870,MUTITJULU
+0872,ALI-CURUNG
+0872,ALYUEN
+0872,ARLPARRA
 0872,Grey
+0872,LITTLE WELL
 0872,Lingiari
-0872,Kalgoorlie
+0880,BARRARATJPI
+0880,DALIWUY BAY
 0880,Lingiari
+0885,ALYANGULA
 0885,Lingiari
 0886,Lingiari
+2000,SYDNEY
 2000,Sydney
 2001,Sydney
 2006,Sydney
 2007,Sydney
+2007,ULTIMO
 2008,Sydney
 2009,Sydney
+2010,DARLINGHURST
 2010,Sydney
 2010,Wentworth
+2011,DARLINGHURST
+2011,POTTS POINT
 2011,Sydney
+2011,WOOLLOOMOOLOO
 2011,Wentworth
 2015,Sydney
 2016,Sydney
 2017,Sydney
 2018,Kingsford Smith
+2018,Sydney
 2019,Kingsford Smith
-2020,Grayndler
 2020,Kingsford Smith
 2021,Wentworth
 2022,Wentworth
 2023,Wentworth
 2024,Wentworth
 2025,Wentworth
+2026,NORTH BONDI
 2026,Wentworth
 2027,Wentworth
 2028,Wentworth
 2029,Wentworth
+2030,VAUCLUSE
 2030,Wentworth
 2031,Kingsford Smith
 2031,Wentworth
@@ -69,7 +124,14 @@ Postcode,Electoral division name
 2033,Kingsford Smith
 2034,Kingsford Smith
 2035,Kingsford Smith
+2035,MAROUBRA
+2035,PAGEWOOD
+2035,SOUTH COOGEE
 2036,Kingsford Smith
+2036,LA PEROUSE
+2036,LITTLE BAY
+2036,MALABAR
+2036,PHILLIP BAY
 2037,Sydney
 2038,Grayndler
 2038,Sydney
@@ -78,13 +140,16 @@ Postcode,Electoral division name
 2040,Grayndler
 2041,Sydney
 2042,Grayndler
+2042,NEWTOWN
 2042,Sydney
 2043,Sydney
 2044,Grayndler
 2044,Sydney
 2045,Grayndler
-2046,Lowe
-2047,Lowe
+2045,HABERFIELD
+2046,Reid
+2047,DRUMMOYNE
+2047,Reid
 2047,Sydney
 2048,Grayndler
 2049,Grayndler
@@ -96,21 +161,22 @@ Postcode,Electoral division name
 2062,North Sydney
 2063,North Sydney
 2064,North Sydney
+2065,ARTARMON
+2065,LANE COVE
 2065,North Sydney
-2066,Bradfield
+2065,ST LEONARDS
+2066,LONGUEVILLE
 2066,North Sydney
+2066,RIVERVIEW
 2067,Bennelong
 2067,Bradfield
 2067,North Sydney
-2068,Bradfield
 2068,North Sydney
-2068,Warringah
 2069,Bradfield
+2069,North Sydney
 2069,Warringah
 2070,Bradfield
-2070,Warringah
 2071,Bradfield
-2071,Warringah
 2072,Bradfield
 2073,Bradfield
 2074,Bradfield
@@ -124,97 +190,122 @@ Postcode,Electoral division name
 2080,Berowra
 2081,Berowra
 2082,Berowra
+2083,BROOKLYN
 2083,Berowra
+2083,LITTLE WOBBY
+2083,MOONEY MOONEY
+2083,PATONGA
 2083,Robertson
 2084,Mackellar
+2084,TERREY HILLS
 2085,Mackellar
 2086,Mackellar
 2086,Warringah
+2087,Mackellar
 2087,Warringah
+2088,MOSMAN
 2088,Warringah
 2089,North Sydney
+2089,Warringah
 2090,North Sydney
+2090,Warringah
 2092,Warringah
 2093,Warringah
 2094,Warringah
+2095,MANLY
 2095,Warringah
+2096,FRESHWATER
 2096,Warringah
+2097,COLLAROY
 2097,Mackellar
 2099,Mackellar
+2099,NORTH CURL CURL
 2099,Warringah
+2100,ALLAMBIE HEIGHTS
 2100,Mackellar
 2100,Warringah
 2101,Mackellar
 2102,Mackellar
 2103,Mackellar
 2104,Mackellar
+2105,MORNING BAY
 2105,Mackellar
 2106,Mackellar
+2106,NEWPORT
 2107,Mackellar
 2108,Mackellar
 2110,North Sydney
 2111,Bennelong
+2111,GLADESVILLE
+2111,HUNTLEYS COVE
 2111,North Sydney
 2112,Bennelong
 2113,Bennelong
 2114,Bennelong
 2115,Bennelong
-2115,Reid
-2116,Reid
+2115,Parramatta
+2116,Parramatta
+2117,Bennelong
 2117,Parramatta
-2117,Reid
 2118,Bennelong
 2118,Berowra
 2118,Parramatta
 2119,Bennelong
 2119,Berowra
 2120,Berowra
+2120,Bradfield
 2121,Bennelong
 2122,Bennelong
 2125,Berowra
 2125,Mitchell
 2126,Berowra
 2127,Reid
+2127,SYDNEY OLYMPIC PARK
+2127,WENTWORTH POINT
 2128,Reid
-2129,Lowe
+2129,HOMEBUSH WEST
 2129,Reid
 2130,Grayndler
 2131,Grayndler
 2132,Grayndler
-2132,Lowe
+2132,Reid
+2132,Watson
 2133,Grayndler
-2133,Lowe
-2134,Lowe
-2135,Lowe
-2136,Lowe
-2137,Lowe
-2138,Lowe
-2140,Lowe
+2133,Watson
+2134,Reid
+2134,Watson
+2135,Reid
+2135,Watson
+2136,Watson
+2137,Reid
+2138,Reid
+2140,HOMEBUSH WEST
 2140,Reid
+2141,Blaxland
 2141,Reid
+2142,Blaxland
+2142,GRANVILLE
 2142,Parramatta
-2142,Reid
+2142,ROSEHILL
 2143,Blaxland
-2143,Reid
+2144,Blaxland
 2144,Reid
+2145,Greenway
+2145,McMahon
 2145,Parramatta
-2145,Prospect
-2145,Reid
+2146,Greenway
 2146,Parramatta
-2147,Parramatta
+2147,Greenway
 2148,Chifley
 2148,Greenway
-2148,Parramatta
-2148,Prospect
+2148,McMahon
 2150,Parramatta
-2150,Reid
 2151,Berowra
 2151,Mitchell
 2151,Parramatta
 2152,Mitchell
 2152,Parramatta
 2153,Mitchell
-2153,Parramatta
 2154,Berowra
 2154,Mitchell
 2155,Greenway
@@ -223,88 +314,91 @@ Postcode,Electoral division name
 2156,Mitchell
 2157,Berowra
 2158,Berowra
-2158,Mitchell
+2158,DURAL
 2159,Berowra
-2160,Prospect
-2160,Reid
+2160,Blaxland
+2160,McMahon
+2160,Parramatta
 2161,Blaxland
-2161,Reid
+2161,Parramatta
 2162,Blaxland
-2162,Reid
 2163,Blaxland
 2164,Blaxland
-2164,Prospect
+2164,McMahon
 2165,Blaxland
-2165,Prospect
-2166,Blaxland
+2165,McMahon
 2166,Fowler
-2166,Prospect
+2166,McMahon
 2167,Werriwa
 2168,Fowler
+2170,CASULA
 2170,Fowler
 2170,Hughes
 2170,Werriwa
 2171,Fowler
+2171,WEST HOXTON
 2171,Werriwa
 2172,Hughes
 2173,Hughes
 2174,Hughes
 2174,Werriwa
-2175,Prospect
+2175,McMahon
 2176,Fowler
-2176,Prospect
+2176,McMahon
 2177,Fowler
 2178,Fowler
-2178,Prospect
+2178,Macarthur
+2178,McMahon
 2179,Fowler
 2179,Werriwa
-2190,Blaxland
-2191,Lowe
+2190,Watson
 2191,Watson
 2192,Watson
 2193,Grayndler
-2193,Lowe
 2193,Watson
 2194,Watson
-2195,Blaxland
 2195,Watson
 2196,Banks
-2196,Blaxland
 2196,Watson
 2197,Blaxland
 2198,Blaxland
 2199,Blaxland
 2200,Banks
 2200,Blaxland
+2200,Watson
 2203,Grayndler
 2204,Grayndler
 2205,Barton
+2206,Barton
+2206,EARLWOOD
 2206,Watson
 2207,Barton
-2207,Watson
+2208,Banks
 2208,Barton
 2208,Watson
 2209,Banks
+2209,Barton
 2209,Watson
 2210,Banks
 2210,Watson
 2211,Banks
+2211,Hughes
 2212,Banks
-2213,Banks
-2214,Banks
+2212,Blaxland
+2212,Hughes
+2213,Hughes
+2214,Blaxland
+2214,Hughes
 2216,Barton
 2217,Barton
+2218,Banks
 2218,Barton
-2218,Watson
 2219,Barton
-2220,Barton
-2220,Watson
+2220,Banks
+2221,Banks
 2221,Barton
 2222,Banks
-2222,Barton
-2222,Watson
 2223,Banks
-2223,Barton
 2224,Cook
 2225,Cook
 2226,Cook
@@ -312,25 +406,26 @@ Postcode,Electoral division name
 2227,Cook
 2228,Cook
 2229,Cook
+2230,BUNDEENA
 2230,Cook
+2230,Cunningham
 2231,Cook
 2232,Cook
 2232,Cunningham
 2232,Hughes
+2232,ROYAL NATIONAL PARK
 2233,Cunningham
 2233,Hughes
 2234,Hughes
 2250,Dobell
 2250,Hunter
 2250,Robertson
-2250,Greenway
 2251,Robertson
 2256,Robertson
 2257,Robertson
 2258,Dobell
 2259,Dobell
 2259,Shortland
-2259,Charlton
 2260,Dobell
 2260,Robertson
 2261,Dobell
@@ -375,6 +470,7 @@ Postcode,Electoral division name
 2305,Newcastle
 2306,Shortland
 2307,Newcastle
+2308,CALLAGHAN
 2308,Newcastle
 2311,Paterson
 2312,Lyne
@@ -388,28 +484,39 @@ Postcode,Electoral division name
 2319,Paterson
 2320,Hunter
 2320,Paterson
+2321,HINTON
 2321,Hunter
 2321,Paterson
 2322,Hunter
+2322,KOORAGANG
 2322,Newcastle
 2322,Paterson
+2323,ASHTONFIELD
 2323,Charlton
 2323,Hunter
+2323,Newcastle
 2323,Paterson
+2324,HEATHERBRAE
+2324,HINTON
 2324,Newcastle
 2324,Paterson
+2325,CESSNOCK
 2325,Hunter
 2326,Hunter
 2327,Hunter
+2328,DENMAN
 2328,Hunter
 2329,Hunter
 2329,Parkes
+2330,GOORANGOOLA
 2330,Hunter
-2330,Greenway
 2331,Hunter
 2333,Hunter
+2333,MCCULLYS GAP
+2333,MUSWELLBROOK
 2334,Hunter
 2335,Hunter
+2335,Paterson
 2336,Hunter
 2337,Hunter
 2338,Hunter
@@ -417,12 +524,9 @@ Postcode,Electoral division name
 2339,New England
 2340,Hunter
 2340,New England
-2340,Parkes
 2341,New England
 2342,New England
-2342,Parkes
 2343,New England
-2343,Parkes
 2344,New England
 2345,New England
 2346,New England
@@ -436,40 +540,44 @@ Postcode,Electoral division name
 2354,New England
 2355,New England
 2356,Parkes
+2357,COONABARABRAN
 2357,Parkes
 2358,New England
 2359,New England
+2359,Parkes
 2360,New England
+2360,Parkes
 2361,New England
+2365,GLENCOE
 2365,New England
 2369,New England
 2370,New England
 2370,Page
 2371,New England
 2372,New England
+2379,New England
 2379,Parkes
-2380,Parkes
+2380,New England
 2381,New England
 2381,Parkes
+2382,New England
 2382,Parkes
 2386,Parkes
 2387,Parkes
+2388,New England
 2388,Parkes
-2390,New England
 2390,Parkes
 2395,Parkes
 2396,Parkes
 2397,Parkes
 2398,Parkes
 2399,Parkes
-2400,New England
 2400,Parkes
 2401,Parkes
 2402,New England
 2402,Parkes
 2403,New England
 2403,Parkes
-2404,New England
 2404,Parkes
 2405,Parkes
 2406,Maranoa
@@ -487,7 +595,6 @@ Postcode,Electoral division name
 2423,Lyne
 2423,Paterson
 2424,Lyne
-2424,Paterson
 2425,Paterson
 2426,Lyne
 2427,Lyne
@@ -497,39 +604,72 @@ Postcode,Electoral division name
 2430,Lyne
 2430,Paterson
 2431,Cowper
+2431,SOUTH WEST ROCKS
 2439,Lyne
+2440,COLLOMBATTI
 2440,Cowper
 2440,Lyne
 2440,New England
+2440,YESSABAH
+2441,BONVILLE
 2441,Cowper
 2441,Lyne
+2443,DUNBOGAN
 2443,Lyne
 2444,Lyne
 2445,Lyne
 2446,Lyne
 2447,Cowper
+2447,TAYLORS ARM
 2448,Cowper
+2448,NAMBUCCA HEADS
+2448,VALLA
+2449,BOWRAVILLE
 2449,Cowper
+2450,BOAMBEE
+2450,BUCCA
+2450,COFFS HARBOUR
 2450,Cowper
+2450,KORORA
+2450,LOWANNA
+2450,MOONEE BEACH
+2450,SAPPHIRE BEACH
+2450,UPPER ORARA
+2452,BOAMBEE EAST
 2452,Cowper
+2452,TOORMINA
 2453,Cowper
+2453,DORRIGO
 2453,New England
 2453,Page
+2453,TYRINGHAM
+2454,BELLINGEN
 2454,Cowper
+2454,THORA
 2455,Cowper
+2455,URUNGA
 2456,Cowper
+2456,EMERALD BEACH
+2460,BLAXLANDS CREEK
 2460,Cowper
 2460,Page
 2462,Cowper
 2463,Cowper
 2463,Page
+2463,SANDON
+2463,WOODFORD
 2464,Page
 2465,Page
 2466,Page
+2469,DUCK CREEK
 2469,New England
 2469,Page
+2470,CASINO
+2470,DOUBTFUL CREEK
+2470,DYRAABA
 2470,Page
 2471,Page
+2471,SOUTH GUNDURIMBA
 2472,Page
 2473,Page
 2474,Page
@@ -541,10 +681,14 @@ Postcode,Electoral division name
 2477,Richmond
 2478,Page
 2478,Richmond
+2479,BANGALOW
+2479,MCLEODS SHOOT
 2479,Richmond
 2480,Page
 2480,Richmond
 2481,Richmond
+2482,BRUNSWICK HEADS
+2482,MAIN ARM
 2482,Richmond
 2483,Richmond
 2484,Richmond
@@ -556,10 +700,15 @@ Postcode,Electoral division name
 2490,Richmond
 2500,Cunningham
 2502,Throsby
+2505,Cunningham
+2505,PORT KEMBLA
 2505,Throsby
+2506,BERKELEY
 2506,Throsby
 2508,Cunningham
+2508,Macarthur
 2515,Cunningham
+2516,BULLI
 2516,Cunningham
 2517,Cunningham
 2518,Cunningham
@@ -567,38 +716,46 @@ Postcode,Electoral division name
 2525,Cunningham
 2526,Cunningham
 2526,Throsby
+2526,UNANDERRA
+2527,Gilmore
 2527,Throsby
+2528,Gilmore
+2528,LAKE ILLAWARRA
 2528,Throsby
+2529,Gilmore
+2529,OAK FLATS
 2529,Throsby
 2530,Throsby
 2533,Gilmore
-2533,Throsby
 2534,Gilmore
 2535,Gilmore
-2535,Throsby
 2536,Eden-Monaro
 2536,Gilmore
 2537,Eden-Monaro
-2537,Gilmore
 2538,Gilmore
 2539,Gilmore
+2540,BUDGONG
 2540,Gilmore
-2540,Fraser
 2541,Gilmore
 2545,Eden-Monaro
+2546,BERMAGUI
 2546,Eden-Monaro
+2546,WALLAGA LAKE
 2548,Eden-Monaro
 2549,Eden-Monaro
 2550,Eden-Monaro
+2550,MURRAH
+2550,STONY CREEK
+2550,TANTAWANGALO
 2551,Eden-Monaro
-2555,Fowler
+2551,WONBOYN
 2555,Lindsay
-2556,Fowler
+2555,Macarthur
 2556,Macarthur
-2557,Fowler
 2557,Macarthur
 2557,Werriwa
 2558,Werriwa
+2559,Macarthur
 2559,Werriwa
 2560,Macarthur
 2560,Werriwa
@@ -607,39 +764,48 @@ Postcode,Electoral division name
 2565,Werriwa
 2566,Werriwa
 2567,Macarthur
-2567,Werriwa
 2568,Macarthur
+2569,Hume
 2569,Macarthur
+2570,Hume
 2570,Macarthur
 2571,Hume
 2571,Macarthur
 2572,Hume
-2572,Macarthur
 2573,Hume
 2574,Hume
+2574,Throsby
 2575,Hume
-2576,Hume
+2575,Throsby
+2576,Throsby
 2577,Gilmore
 2577,Hume
 2577,Throsby
 2578,Hume
 2579,Hume
+2579,MARULAN
+2579,Throsby
+2580,Calare
 2580,Eden-Monaro
+2580,GOULBURN
 2580,Hume
-2580,Macquarie
+2580,MAYFIELD
+2580,TOWRANG
 2581,Hume
 2582,Hume
+2582,YASS
+2583,CROOKWELL
 2583,Hume
 2584,Hume
 2585,Hume
 2586,Hume
 2587,Hume
 2588,Hume
-2588,Riverina
+2590,COOTAMUNDRA
+2590,Hume
 2590,Riverina
-2594,Calare
 2594,Hume
-2594,Riverina
+2594,MILVALE
 2600,Canberra
 2600,Fraser
 2601,Fraser
@@ -648,12 +814,13 @@ Postcode,Electoral division name
 2604,Canberra
 2605,Canberra
 2606,Canberra
+2606,PHILLIP
 2607,Canberra
 2609,Canberra
 2609,Fraser
 2611,Canberra
-2611,Eden-Monaro
 2611,Hume
+2611,Riverina
 2612,Fraser
 2614,Fraser
 2615,Fraser
@@ -664,9 +831,14 @@ Postcode,Electoral division name
 2620,Canberra
 2620,Eden-Monaro
 2620,Fraser
+2620,GOOGONG
 2620,Hume
+2621,BUNGENDORE
 2621,Eden-Monaro
+2621,GUNDAROO
 2621,Hume
+2621,LAKE GEORGE
+2621,SUTTON
 2622,Eden-Monaro
 2622,Gilmore
 2623,Eden-Monaro
@@ -674,33 +846,32 @@ Postcode,Electoral division name
 2625,Eden-Monaro
 2626,Eden-Monaro
 2627,Eden-Monaro
+2627,Riverina
 2628,Eden-Monaro
 2629,Eden-Monaro
+2629,Riverina
 2630,Eden-Monaro
 2631,Eden-Monaro
 2632,Eden-Monaro
 2633,Eden-Monaro
-2640,Eden-Monaro
 2640,Farrer
+2640,Riverina
 2641,Farrer
-2642,Eden-Monaro
 2642,Farrer
+2642,Riverina
 2643,Farrer
 2644,Farrer
 2645,Farrer
 2646,Farrer
 2647,Farrer
 2648,Farrer
-2649,Eden-Monaro
+2649,Riverina
 2650,Farrer
 2650,Riverina
-2650,Eden-Monaro
 2651,Riverina
-2652,Calare
-2652,Eden-Monaro
 2652,Farrer
 2652,Riverina
-2653,Eden-Monaro
+2653,Riverina
 2655,Farrer
 2655,Riverina
 2656,Farrer
@@ -714,13 +885,17 @@ Postcode,Electoral division name
 2666,Hume
 2666,Riverina
 2668,Riverina
-2669,Calare
+2669,KIKOIRA
+2669,NARADHAN
+2669,Parkes
 2669,Riverina
 2671,Calare
+2671,Parkes
 2671,Riverina
-2672,Calare
-2675,Calare
+2672,Parkes
+2675,Riverina
 2678,Riverina
+2680,GRIFFITH
 2680,Riverina
 2681,Riverina
 2700,Farrer
@@ -728,12 +903,12 @@ Postcode,Electoral division name
 2701,Riverina
 2702,Riverina
 2703,Riverina
+2705,LEETON
 2705,Riverina
 2706,Riverina
 2707,Farrer
 2707,Riverina
 2710,Farrer
-2711,Calare
 2711,Farrer
 2711,Riverina
 2712,Farrer
@@ -743,18 +918,20 @@ Postcode,Electoral division name
 2716,Farrer
 2716,Riverina
 2717,Farrer
-2720,Eden-Monaro
 2720,Riverina
-2721,Calare
+2721,Hume
 2721,Riverina
-2722,Eden-Monaro
+2722,Hume
 2722,Riverina
+2722,SOUTH GUNDAGAI
+2725,Hume
 2725,Riverina
 2726,Hume
 2727,Riverina
-2729,Eden-Monaro
 2729,Riverina
-2730,Eden-Monaro
+2729,WONDALGA
+2730,BATLOW
+2730,Riverina
 2731,Farrer
 2732,Farrer
 2733,Farrer
@@ -764,49 +941,55 @@ Postcode,Electoral division name
 2737,Farrer
 2738,Farrer
 2739,Farrer
-2745,Fowler
 2745,Lindsay
+2745,Macarthur
 2747,Chifley
-2747,Greenway
 2747,Lindsay
 2748,Lindsay
-2748,Prospect
-2749,Greenway
+2748,McMahon
+2749,CRANEBROOK
 2749,Lindsay
 2750,Lindsay
-2752,Fowler
+2750,PENRITH
+2752,Hume
 2752,Macarthur
-2753,Greenway
 2753,Lindsay
-2754,Greenway
-2755,Greenway
+2753,Macquarie
+2754,Macquarie
+2755,Macquarie
 2756,Berowra
-2756,Greenway
-2757,Greenway
-2758,Greenway
+2756,Macquarie
+2757,Macquarie
 2758,Macquarie
-2759,Prospect
+2759,McMahon
 2760,Chifley
 2760,Lindsay
+2760,ST MARYS
 2761,Chifley
-2761,Greenway
+2762,Chifley
 2762,Greenway
 2763,Chifley
 2763,Greenway
 2765,Berowra
+2765,Chifley
 2765,Greenway
+2765,Lindsay
+2765,Macquarie
 2765,Mitchell
 2766,Chifley
-2766,Prospect
+2766,McMahon
 2767,Chifley
 2768,Greenway
+2769,Greenway
 2770,Chifley
-2770,Prospect
 2773,Macquarie
+2774,BLAXLAND
 2774,Macquarie
 2775,Berowra
-2775,Greenway
+2775,LAUGHTONDALE
+2775,Macquarie
 2775,Robertson
+2775,SINGLETONS MILL
 2776,Macquarie
 2777,Macquarie
 2778,Macquarie
@@ -815,73 +998,72 @@ Postcode,Electoral division name
 2782,Macquarie
 2783,Macquarie
 2784,Macquarie
+2785,MEGALONG VALLEY
 2785,Macquarie
+2786,Calare
 2786,Macquarie
+2787,Calare
 2787,Hume
-2787,Macquarie
-2790,Macquarie
+2790,Calare
 2791,Calare
 2792,Calare
-2793,Calare
-2794,Calare
+2792,Hume
+2793,Hume
+2794,HOVELLS CREEK
 2794,Hume
 2795,Calare
-2795,Macquarie
 2795,Parkes
 2797,Calare
+2797,Hume
 2798,Calare
 2799,Calare
-2799,Macquarie
+2799,Hume
 2800,Calare
 2800,Parkes
-2803,Calare
 2803,Hume
 2804,Calare
+2804,Hume
 2805,Calare
+2805,Hume
 2806,Calare
-2807,Calare
 2807,Hume
-2808,Calare
 2808,Hume
-2809,Calare
+2809,Hume
 2810,Calare
+2810,Hume
 2820,Parkes
-2821,Calare
 2821,Parkes
-2823,Calare
-2824,Calare
-2825,Calare
-2827,Calare
+2823,Parkes
+2824,Parkes
+2825,Parkes
 2827,Parkes
 2828,Parkes
 2829,Parkes
 2830,Parkes
-2831,Calare
 2831,Parkes
-2832,Calare
 2832,Parkes
 2833,Parkes
-2834,Calare
 2834,Parkes
-2835,Calare
-2836,Calare
+2835,Parkes
 2836,Farrer
-2839,Calare
-2840,Calare
+2839,Parkes
+2840,BOURKE
 2840,Farrer
+2840,Parkes
 2842,Parkes
 2843,Parkes
 2844,Parkes
-2845,Macquarie
-2846,Macquarie
-2847,Macquarie
+2845,Calare
+2846,Calare
+2847,Calare
+2847,PORTLAND
+2848,Calare
+2848,Hunter
 2848,Parkes
-2849,Macquarie
+2849,Calare
+2849,Hunter
 2849,Parkes
 2850,Parkes
-2850,Calare
-2850,Macquarie
-2850,Hunter
 2852,Parkes
 2864,Calare
 2865,Calare
@@ -895,17 +1077,22 @@ Postcode,Electoral division name
 2869,Parkes
 2870,Calare
 2871,Calare
-2873,Calare
+2871,Parkes
+2873,Parkes
 2874,Calare
+2874,Parkes
 2875,Calare
+2875,Parkes
+2875,TRUNDLE
 2876,Calare
 2877,Calare
-2878,Calare
+2877,Parkes
 2878,Farrer
-2879,Calare
+2878,Parkes
+2878,Riverina
 2879,Farrer
-2880,Calare
 2880,Farrer
+2880,Maranoa
 2898,Sydney
 2900,Canberra
 2902,Canberra
@@ -920,6 +1107,7 @@ Postcode,Electoral division name
 3000,Melbourne
 3002,Melbourne
 3003,Melbourne
+3004,Melbourne
 3004,Melbourne Ports
 3006,Melbourne Ports
 3008,Melbourne
@@ -928,6 +1116,7 @@ Postcode,Electoral division name
 3012,Gellibrand
 3012,Maribyrnong
 3013,Gellibrand
+3013,SPOTSWOOD
 3015,Gellibrand
 3016,Gellibrand
 3018,Gellibrand
@@ -937,17 +1126,26 @@ Postcode,Electoral division name
 3021,Gorton
 3021,Maribyrnong
 3022,Gorton
+3023,DEER PARK
 3023,Gorton
 3024,Lalor
+3024,WYNDHAM VALE
+3025,ALTONA NORTH
 3025,Gellibrand
 3026,Lalor
+3027,LAVERTON
 3027,Lalor
+3027,POINT COOK
+3028,ALTONA MEADOWS
 3028,Gellibrand
 3028,Lalor
+3028,SEABROOK
 3029,Gorton
 3029,Lalor
 3030,Gorton
 3030,Lalor
+3030,POINT COOK
+3031,KENSINGTON
 3031,Melbourne
 3032,Gellibrand
 3032,Maribyrnong
@@ -963,6 +1161,7 @@ Postcode,Electoral division name
 3041,Maribyrnong
 3041,Wills
 3042,Maribyrnong
+3042,Wills
 3043,Calwell
 3043,Maribyrnong
 3043,Wills
@@ -970,6 +1169,7 @@ Postcode,Electoral division name
 3045,Calwell
 3046,Wills
 3047,Calwell
+3047,DALLAS
 3048,Calwell
 3049,Calwell
 3051,Melbourne
@@ -977,12 +1177,17 @@ Postcode,Electoral division name
 3053,Melbourne
 3054,Melbourne
 3055,Wills
+3056,BRUNSWICK
 3056,Melbourne
 3056,Wills
+3057,BRUNSWICK
+3057,BRUNSWICK EAST
 3057,Batman
+3057,COBURG
 3057,Melbourne
 3057,Wills
 3058,Batman
+3058,COBURG
 3058,Wills
 3059,Calwell
 3060,Calwell
@@ -996,13 +1201,21 @@ Postcode,Electoral division name
 3066,Melbourne
 3067,Melbourne
 3068,Batman
+3068,FITZROY
 3068,Melbourne
+3068,NORTHCOTE
 3068,Wills
 3070,Batman
+3070,FAIRFIELD
 3070,Melbourne
+3070,NORTHCOTE
+3070,THORNBURY
 3071,Batman
 3072,Batman
+3072,PRESTON
 3073,Batman
+3073,PRESTON
+3073,RESERVOIR
 3074,Scullin
 3075,Scullin
 3076,McEwen
@@ -1011,6 +1224,7 @@ Postcode,Electoral division name
 3078,Melbourne
 3079,Jagajaga
 3081,Jagajaga
+3082,MILL PARK
 3082,Scullin
 3083,Batman
 3083,Jagajaga
@@ -1055,19 +1269,25 @@ Postcode,Electoral division name
 3121,Melbourne
 3122,Kooyong
 3123,Kooyong
+3124,CAMBERWELL
 3124,Higgins
 3124,Kooyong
+3125,BURWOOD
 3125,Chisholm
 3126,Kooyong
 3127,Chisholm
 3127,Kooyong
+3128,BOX HILL SOUTH
 3128,Chisholm
+3129,BOX HILL NORTH
 3129,Chisholm
+3130,BLACKBURN
 3130,Deakin
 3131,Aston
 3131,Deakin
 3131,Menzies
 3132,Deakin
+3132,MITCHAM
 3133,Aston
 3133,Deakin
 3134,Casey
@@ -1087,20 +1307,29 @@ Postcode,Electoral division name
 3141,Higgins
 3141,Melbourne Ports
 3142,Higgins
+3142,TOORAK
 3143,Higgins
 3144,Higgins
+3144,MALVERN
 3145,Higgins
+3145,MALVERN EAST
 3145,Melbourne Ports
 3146,Higgins
 3146,Kooyong
+3147,ASHBURTON
 3147,Chisholm
 3147,Higgins
 3148,Chisholm
 3149,Chisholm
+3149,MOUNT WAVERLEY
 3150,Bruce
 3150,Chisholm
+3150,MOUNT WAVERLEY
+3150,WHEELERS HILL
+3151,BURWOOD EAST
 3151,Deakin
 3152,Aston
+3152,WANTIRNA SOUTH
 3153,Aston
 3153,Casey
 3153,Deakin
@@ -1109,6 +1338,7 @@ Postcode,Electoral division name
 3155,Aston
 3155,La Trobe
 3156,Aston
+3156,FERNTREE GULLY
 3156,Holt
 3156,La Trobe
 3158,La Trobe
@@ -1121,6 +1351,7 @@ Postcode,Electoral division name
 3163,Higgins
 3163,Hotham
 3163,Melbourne Ports
+3165,BENTLEIGH EAST
 3165,Hotham
 3166,Chisholm
 3166,Higgins
@@ -1130,6 +1361,7 @@ Postcode,Electoral division name
 3168,Bruce
 3168,Chisholm
 3168,Hotham
+3169,CLAYTON SOUTH
 3169,Chisholm
 3169,Hotham
 3170,Bruce
@@ -1141,7 +1373,9 @@ Postcode,Electoral division name
 3174,Bruce
 3174,Hotham
 3174,Isaacs
+3174,NOBLE PARK
 3175,Bruce
+3175,DANDENONG NORTH
 3175,Isaacs
 3177,Holt
 3178,Aston
@@ -1156,7 +1390,6 @@ Postcode,Electoral division name
 3186,Goldstein
 3187,Goldstein
 3188,Goldstein
-3189,Goldstein
 3189,Hotham
 3190,Goldstein
 3190,Hotham
@@ -1171,16 +1404,20 @@ Postcode,Electoral division name
 3196,Isaacs
 3197,Isaacs
 3198,Dunkley
+3198,Isaacs
 3199,Dunkley
+3199,FRANKSTON
 3200,Dunkley
 3201,Dunkley
 3201,Isaacs
 3202,Hotham
+3204,BENTLEIGH
 3204,Goldstein
 3204,Hotham
 3205,Melbourne Ports
 3206,Melbourne Ports
 3207,Melbourne Ports
+3207,PORT MELBOURNE
 3211,Corio
 3211,Lalor
 3212,Corio
@@ -1199,14 +1436,18 @@ Postcode,Electoral division name
 3224,Corio
 3225,Corangamite
 3226,Corangamite
+3226,OCEAN GROVE
 3227,Corangamite
 3228,Corangamite
+3230,BELLS BEACH
 3230,Corangamite
 3231,Corangamite
 3232,Corangamite
 3233,Corangamite
 3235,Corangamite
+3236,BEECH FOREST
 3236,Corangamite
+3237,BEECH FOREST
 3237,Corangamite
 3237,Wannon
 3238,Corangamite
@@ -1222,9 +1463,12 @@ Postcode,Electoral division name
 3251,Corangamite
 3251,Wannon
 3254,Corangamite
+3260,COBDEN
 3260,Corangamite
+3260,SIMPSON
 3260,Wannon
 3264,Wannon
+3265,GLENORMISTON NORTH
 3265,Wannon
 3266,Corangamite
 3266,Wannon
@@ -1243,10 +1487,12 @@ Postcode,Electoral division name
 3279,Wannon
 3280,Wannon
 3281,Wannon
+3282,GRASSMERE
 3282,Wannon
 3283,Wannon
 3284,Wannon
 3285,Wannon
+3286,MACARTHUR
 3286,Wannon
 3287,Wannon
 3289,Wannon
@@ -1258,14 +1504,18 @@ Postcode,Electoral division name
 3302,Wannon
 3303,Wannon
 3304,Wannon
+3305,CAPE BRIDGEWATER
 3305,Wannon
 3309,Wannon
 3310,Wannon
 3311,Wannon
 3312,Mallee
 3312,Wannon
+3314,MOORALLA
 3314,Wannon
+3315,KONONGWOOTONG
 3315,Mallee
+3315,WANDO VALE
 3315,Wannon
 3317,Mallee
 3317,Wannon
@@ -1285,8 +1535,10 @@ Postcode,Electoral division name
 3332,Corangamite
 3333,Ballarat
 3333,Corangamite
+3333,MEREDITH
 3334,Ballarat
 3334,Corangamite
+3334,MORRISONS
 3335,Gorton
 3335,Lalor
 3337,Lalor
@@ -1299,7 +1551,11 @@ Postcode,Electoral division name
 3342,Ballarat
 3342,Corangamite
 3345,Ballarat
+3350,BALLARAT CENTRAL
+3350,BALLARAT NORTH
 3350,Ballarat
+3350,REDAN
+3350,SOLDIERS HILL
 3351,Ballarat
 3351,Corangamite
 3351,Wannon
@@ -1320,13 +1576,20 @@ Postcode,Electoral division name
 3371,Ballarat
 3371,Bendigo
 3371,Wannon
+3373,RAGLAN
 3373,Wannon
+3374,Wannon
 3375,Wannon
+3377,EVERSLEY
+3377,RHYMNEY
 3377,Wannon
+3378,TATYOON
 3378,Wannon
+3379,MAFEKING
+3379,WICKLIFFE
 3379,Wannon
-3380,Mallee
 3380,Wannon
+3381,DADSWELLS BRIDGE
 3381,Mallee
 3381,Wannon
 3384,Mallee
@@ -1353,6 +1616,7 @@ Postcode,Electoral division name
 3414,Mallee
 3415,Mallee
 3418,Mallee
+3419,KANIVA
 3419,Mallee
 3420,Mallee
 3423,Mallee
@@ -1377,9 +1641,9 @@ Postcode,Electoral division name
 3442,McEwen
 3444,Bendigo
 3444,McEwen
-3444,Ballarat
 3446,Ballarat
 3446,Bendigo
+3447,Ballarat
 3447,Bendigo
 3448,Bendigo
 3450,Bendigo
@@ -1406,8 +1670,10 @@ Postcode,Electoral division name
 3475,Bendigo
 3475,Mallee
 3475,Murray
+3477,Mallee
+3477,Murray
+3477,Wannon
 3478,Mallee
-3478,Murray
 3478,Wannon
 3480,Mallee
 3482,Mallee
@@ -1507,6 +1773,7 @@ Postcode,Electoral division name
 3599,Mallee
 3607,Indi
 3608,Indi
+3608,Murray
 3610,Indi
 3610,Murray
 3612,Indi
@@ -1525,6 +1792,7 @@ Postcode,Electoral division name
 3631,Indi
 3631,Murray
 3633,Murray
+3634,KATANDRA WEST
 3634,Murray
 3635,Murray
 3636,Murray
@@ -1537,6 +1805,7 @@ Postcode,Electoral division name
 3644,Murray
 3646,Indi
 3646,Murray
+3646,WAGGARANDALL
 3647,Murray
 3649,Murray
 3658,McEwen
@@ -1554,31 +1823,37 @@ Postcode,Electoral division name
 3669,Murray
 3670,Indi
 3672,Indi
+3673,CHESNEY VALE
 3673,Indi
+3673,LURG
 3675,Indi
 3677,Indi
 3678,Indi
+3678,MOYHU
 3682,Indi
 3683,Indi
 3685,Indi
 3687,Indi
 3688,Indi
 3690,Indi
+3691,GUNDOWRING
 3691,Indi
-3691,Farrer
 3694,Indi
 3695,Indi
+3695,TANGAMBALANGA
 3697,Indi
 3698,Indi
 3699,Indi
 3700,Indi
 3701,Gippsland
 3701,Indi
+3701,TALLANDOON
+3701,TALLANGATTA SOUTH
 3704,Indi
 3705,Indi
-3707,Eden-Monaro
 3707,Gippsland
 3707,Indi
+3707,Riverina
 3708,Indi
 3709,Indi
 3711,McEwen
@@ -1604,20 +1879,27 @@ Postcode,Electoral division name
 3730,Indi
 3730,Murray
 3732,Indi
+3732,MOYHU
 3733,Indi
 3735,Indi
 3737,Indi
+3737,MYRTLEFORD
 3738,Indi
 3739,Indi
 3740,Indi
+3741,HOTHAM HEIGHTS
 3741,Indi
 3744,Indi
 3746,Indi
+3746,LONDRIGAN
+3747,BEECHWORTH
 3747,Indi
 3749,Indi
+3749,YACKANDANDAH
 3750,McEwen
 3751,McEwen
 3752,McEwen
+3752,SOUTH MORANG
 3752,Scullin
 3753,McEwen
 3754,McEwen
@@ -1668,8 +1950,10 @@ Postcode,Electoral division name
 3804,La Trobe
 3805,Holt
 3805,La Trobe
+3805,NARRE WARREN
 3806,Holt
 3806,La Trobe
+3806,NARRE WARREN SOUTH
 3807,La Trobe
 3808,La Trobe
 3809,La Trobe
@@ -1705,10 +1989,13 @@ Postcode,Electoral division name
 3854,McMillan
 3856,Gippsland
 3856,McMillan
+3856,TOONGABBIE
 3857,Gippsland
+3858,DENISON
 3858,Gippsland
 3859,Gippsland
 3860,Gippsland
+3860,STOCKDALE
 3862,Gippsland
 3864,Gippsland
 3865,Gippsland
@@ -1749,6 +2036,7 @@ Postcode,Electoral division name
 3915,Flinders
 3916,Flinders
 3918,Flinders
+3919,CRIB POINT
 3919,Flinders
 3920,Flinders
 3921,Flinders
@@ -1774,6 +2062,7 @@ Postcode,Electoral division name
 3944,Flinders
 3945,Flinders
 3945,McMillan
+3945,POOWONG
 3946,McMillan
 3950,McMillan
 3951,Flinders
@@ -1797,6 +2086,7 @@ Postcode,Electoral division name
 3975,Holt
 3975,Isaacs
 3976,Holt
+3977,DEVON MEADOWS
 3977,Dunkley
 3977,Flinders
 3977,Holt
@@ -1820,19 +2110,29 @@ Postcode,Electoral division name
 3992,McMillan
 3995,Flinders
 3995,McMillan
+3995,WONTHAGGI
 3996,McMillan
 4000,Brisbane
 4005,Brisbane
+4005,NEW FARM
 4006,Brisbane
-4007,Lilley
+4007,Brisbane
+4007,HAMILTON
 4008,Lilley
+4008,PINKENBA
+4009,Brisbane
 4009,Lilley
+4010,ALBION
 4010,Brisbane
-4010,Lilley
-4011,Lilley
+4011,Brisbane
+4011,CLAYFIELD
+4012,Brisbane
+4012,CLAYFIELD
 4012,Lilley
+4012,NUNDAH
 4013,Lilley
 4014,Lilley
+4017,BRIGHTON
 4017,Lilley
 4017,Petrie
 4018,Lilley
@@ -1843,50 +2143,62 @@ Postcode,Electoral division name
 4022,Petrie
 4025,Bonner
 4030,Brisbane
-4030,Lilley
+4030,WOOLOOWIN
+4031,Brisbane
 4031,Lilley
 4032,Lilley
-4032,Petrie
 4034,Lilley
 4034,Petrie
 4035,Dickson
+4035,Lilley
 4035,Petrie
 4036,Petrie
 4037,Dickson
 4051,Brisbane
+4051,Ryan
 4053,Brisbane
 4053,Dickson
 4053,Lilley
-4053,Petrie
-4054,Brisbane
+4053,MITCHELTON
+4053,Ryan
 4054,Dickson
-4055,Brisbane
+4054,KEPERRA
+4054,Ryan
 4055,Dickson
+4055,Ryan
 4059,Brisbane
+4060,ASHGROVE
 4060,Brisbane
-4061,Brisbane
+4060,Ryan
 4061,Ryan
 4064,Brisbane
+4064,PADDINGTON
 4064,Ryan
+4065,BARDON
 4065,Brisbane
 4065,Ryan
+4066,AUCHENFLOWER
 4066,Brisbane
 4066,Ryan
 4067,Ryan
+4067,ST LUCIA
 4068,Moreton
 4068,Ryan
 4069,Ryan
+4070,MOGGILL
 4070,Ryan
 4073,Oxley
 4074,Oxley
-4074,Ryan
 4075,Moreton
 4075,Oxley
 4076,Oxley
 4077,Oxley
 4078,Oxley
 4101,Griffith
+4101,SOUTH BRISBANE
+4101,WEST END
 4102,Griffith
+4102,WOOLLOONGABBA
 4103,Griffith
 4103,Moreton
 4104,Moreton
@@ -1894,42 +2206,45 @@ Postcode,Electoral division name
 4106,Moreton
 4107,Moreton
 4108,Moreton
-4108,Oxley
 4109,Moreton
 4110,Moreton
 4110,Oxley
+4110,Rankin
 4111,Moreton
 4112,Moreton
 4113,Bonner
 4113,Moreton
+4113,RUNCORN
 4114,Rankin
 4115,Moreton
-4115,Oxley
-4116,Moreton
-4116,Oxley
-4117,Moreton
+4115,Rankin
+4116,Rankin
 4117,Rankin
+4118,Forde
 4118,Rankin
+4118,Wright
 4119,Rankin
+4120,GREENSLOPES
 4120,Griffith
 4121,Bonner
 4121,Griffith
 4121,Moreton
+4121,TARRAGINDI
 4122,Bonner
 4122,Griffith
 4123,Bonner
 4123,Rankin
 4124,Forde
-4124,Rankin
+4124,NEW BEITH
+4124,Wright
 4125,Forde
-4125,Rankin
+4125,Wright
+4127,Forde
 4127,Rankin
 4128,Forde
 4128,Rankin
 4129,Forde
-4130,Bowman
 4130,Forde
-4130,Rankin
 4131,Forde
 4131,Rankin
 4132,Rankin
@@ -1941,15 +2256,17 @@ Postcode,Electoral division name
 4154,Bonner
 4155,Bonner
 4156,Bonner
-4157,Bonner
 4157,Bowman
 4158,Bowman
 4159,Bowman
 4160,Bowman
 4161,Bowman
 4163,Bowman
+4163,CLEVELAND
 4164,Bowman
 4165,Bowman
+4165,REDLAND BAY
+4165,VICTORIA POINT
 4169,Griffith
 4170,Bonner
 4170,Griffith
@@ -1959,78 +2276,101 @@ Postcode,Electoral division name
 4173,Bonner
 4174,Bonner
 4178,Bonner
+4178,WYNNUM WEST
 4179,Bonner
 4183,Bowman
 4184,Bowman
 4205,Forde
 4207,Fadden
 4207,Forde
+4207,Wright
 4208,Fadden
 4208,Forde
 4209,Fadden
+4209,Forde
 4210,Fadden
+4210,Forde
+4210,Wright
 4211,Fadden
-4211,Forde
 4211,Moncrieff
+4211,Wright
 4212,Fadden
+4212,HOPE ISLAND
 4213,McPherson
 4213,Moncrieff
+4213,Wright
 4214,Fadden
 4214,Moncrieff
 4215,Fadden
 4215,Moncrieff
 4216,Fadden
+4217,BENOWA
+4217,BUNDALL
 4217,Moncrieff
+4217,SURFERS PARADISE
+4218,BROADBEACH WATERS
+4218,MERMAID BEACH
 4218,Moncrieff
-4219,McPherson
+4220,BURLEIGH HEADS
 4220,McPherson
 4220,Moncrieff
 4221,McPherson
 4223,McPherson
 4224,McPherson
+4225,COOLANGATTA
 4225,McPherson
 4226,McPherson
 4226,Moncrieff
 4227,McPherson
 4228,McPherson
-4270,Forde
-4271,Forde
-4272,Forde
-4275,Forde
+4228,TALLEBUDGERA VALLEY
+4270,Wright
+4271,Wright
+4272,Wright
+4275,Wright
 4280,Forde
-4285,Forde
-4287,Forde
+4280,JIMBOOMBA
+4280,Wright
+4285,BEAUDESERT
+4285,Wright
+4287,RUNNING CREEK
+4287,Wright
+4300,Blair
 4300,Oxley
 4301,Blair
 4301,Oxley
 4303,Blair
+4304,BUNDAMBA
 4304,Blair
+4305,BRASSALL
 4305,Blair
+4305,IPSWICH
+4305,NORTH IPSWICH
+4305,Wright
 4306,Blair
-4306,Dickson
 4306,Maranoa
 4306,Ryan
 4307,Blair
-4309,Blair
-4310,Blair
+4307,Wright
+4309,Wright
+4310,Wright
 4311,Blair
-4311,Dickson
-4312,Dickson
-4313,Dickson
-4313,Fisher
+4311,Wright
+4312,Blair
+4313,Blair
 4340,Blair
-4341,Blair
+4340,Wright
+4341,Wright
 4342,Blair
-4342,Dickson
-4343,Blair
-4344,Blair
+4342,Wright
+4343,Wright
+4344,Wright
 4346,Blair
-4346,Dickson
-4347,Blair
+4347,Wright
 4350,Groom
-4352,Blair
 4352,Groom
 4352,Maranoa
+4352,Wright
 4353,Groom
 4353,Maranoa
 4354,Groom
@@ -2041,18 +2381,16 @@ Postcode,Electoral division name
 4357,Maranoa
 4358,Groom
 4358,Maranoa
-4359,Blair
 4359,Groom
+4359,Wright
 4360,Groom
 4360,Maranoa
 4361,Maranoa
 4362,Maranoa
 4363,Groom
 4364,Groom
-4364,Maranoa
 4365,Maranoa
 4370,Maranoa
-4370,New England
 4371,Maranoa
 4372,Maranoa
 4373,Maranoa
@@ -2060,10 +2398,10 @@ Postcode,Electoral division name
 4375,Maranoa
 4375,New England
 4376,Maranoa
-4376,New England
 4377,Maranoa
 4377,New England
 4378,Maranoa
+4380,Fadden
 4380,Maranoa
 4381,Maranoa
 4382,Maranoa
@@ -2092,23 +2430,21 @@ Postcode,Electoral division name
 4411,Maranoa
 4412,Maranoa
 4413,Maranoa
-4415,Flynn
 4415,Maranoa
 4416,Maranoa
 4417,Maranoa
-4418,Flynn
 4418,Maranoa
 4419,Flynn
+4419,Maranoa
 4420,Flynn
+4420,Maranoa
 4421,Maranoa
 4422,Maranoa
 4423,Maranoa
 4424,Maranoa
 4425,Maranoa
 4426,Maranoa
-4427,Flynn
 4427,Maranoa
-4428,Flynn
 4428,Maranoa
 4454,Flynn
 4454,Maranoa
@@ -2118,14 +2454,12 @@ Postcode,Electoral division name
 4465,Maranoa
 4467,Maranoa
 4468,Maranoa
-4470,Flynn
 4470,Maranoa
-4472,Flynn
 4472,Maranoa
 4474,Maranoa
 4475,Maranoa
 4477,Maranoa
-4478,Flynn
+4478,Maranoa
 4479,Maranoa
 4480,Maranoa
 4481,Maranoa
@@ -2148,41 +2482,55 @@ Postcode,Electoral division name
 4503,Dickson
 4503,Longman
 4503,Petrie
-4504,Fisher
 4504,Longman
+4504,Petrie
 4505,Longman
-4506,Fisher
+4505,Petrie
 4506,Longman
+4507,BANKSIA BEACH
+4507,BELLARA
+4507,BONGAREE
 4507,Longman
-4508,Longman
-4509,Longman
+4507,WHITE PATCH
+4507,WOORIM
+4508,Petrie
 4509,Petrie
-4510,Fisher
 4510,Longman
 4511,Longman
-4512,Fisher
-4514,Fisher
-4515,Fisher
-4516,Fisher
+4512,Longman
+4514,Blair
+4514,Longman
+4515,Blair
+4516,Longman
 4517,Fisher
 4518,Fisher
 4519,Fisher
 4520,Dickson
+4520,ENOGGERA RESERVOIR
 4520,Ryan
+4520,SAMFORD VALLEY
+4520,SAMFORD VILLAGE
 4521,Dickson
-4521,Fisher
+4521,Longman
 4550,Fisher
+4551,CALOUNDRA
 4551,Fisher
 4552,Fisher
+4552,Longman
 4553,Fisher
-4554,Fairfax
+4554,Fisher
 4555,Fairfax
+4555,Fisher
 4556,Fairfax
+4556,Fisher
+4556,SIPPY DOWNS
 4557,Fairfax
 4557,Fisher
 4558,Fairfax
+4558,MAROOCHYDORE
 4559,Fairfax
 4560,Fairfax
+4560,Fisher
 4561,Fairfax
 4562,Fairfax
 4562,Wide Bay
@@ -2193,7 +2541,7 @@ Postcode,Electoral division name
 4567,Wide Bay
 4568,Wide Bay
 4569,Wide Bay
-4570,Hinkler
+4570,WOOLOOGA
 4570,Wide Bay
 4571,Wide Bay
 4572,Fairfax
@@ -2204,6 +2552,7 @@ Postcode,Electoral division name
 4574,Fisher
 4574,Wide Bay
 4575,Fisher
+4575,PARREARRA
 4580,Wide Bay
 4581,Wide Bay
 4600,Wide Bay
@@ -2211,8 +2560,10 @@ Postcode,Electoral division name
 4605,Flynn
 4605,Wide Bay
 4606,Flynn
+4606,WONDAI
 4608,Flynn
 4608,Maranoa
+4610,DURONG
 4610,Flynn
 4610,Maranoa
 4611,Flynn
@@ -2221,20 +2572,21 @@ Postcode,Electoral division name
 4614,Maranoa
 4615,Maranoa
 4615,Wide Bay
-4620,Hinkler
 4620,Wide Bay
-4621,Hinkler
+4621,Flynn
+4621,Wide Bay
 4625,Flynn
 4626,Flynn
 4626,Maranoa
 4627,Flynn
 4630,Flynn
 4650,Hinkler
+4650,TIARO
 4650,Wide Bay
-4650,Flynn
 4655,Hinkler
 4655,Wide Bay
 4659,Hinkler
+4659,Wide Bay
 4660,Hinkler
 4662,Hinkler
 4670,Flynn
@@ -2250,12 +2602,12 @@ Postcode,Electoral division name
 4694,Flynn
 4695,Flynn
 4697,Flynn
-4699,Capricornia
+4699,Flynn
 4700,Capricornia
+4700,Flynn
 4701,Capricornia
 4702,Capricornia
 4702,Flynn
-4702,Maranoa
 4703,Capricornia
 4704,Capricornia
 4705,Capricornia
@@ -2266,7 +2618,7 @@ Postcode,Electoral division name
 4711,Capricornia
 4712,Flynn
 4713,Flynn
-4714,Capricornia
+4714,Flynn
 4715,Flynn
 4716,Flynn
 4717,Flynn
@@ -2275,30 +2627,27 @@ Postcode,Electoral division name
 4720,Flynn
 4721,Capricornia
 4721,Flynn
+4721,Maranoa
 4722,Flynn
-4723,Capricornia
 4723,Flynn
-4724,Capricornia
-4724,Flynn
-4725,Flynn
-4726,Flynn
-4727,Flynn
-4728,Capricornia
-4728,Flynn
-4730,Flynn
+4724,Maranoa
+4725,Maranoa
+4726,Maranoa
+4727,Maranoa
+4728,Maranoa
 4730,Maranoa
-4731,Flynn
-4732,Flynn
+4731,Maranoa
 4732,Kennedy
-4733,Flynn
+4732,Maranoa
 4733,Kennedy
-4735,Flynn
-4735,Kennedy
+4733,Maranoa
 4735,Maranoa
 4736,Maranoa
 4737,Capricornia
 4738,Capricornia
 4739,Capricornia
+4740,ANDERGROVE
+4740,BEACONSFIELD
 4740,Capricornia
 4740,Dawson
 4741,Capricornia
@@ -2311,7 +2660,6 @@ Postcode,Electoral division name
 4746,Flynn
 4750,Dawson
 4751,Capricornia
-4751,Dawson
 4753,Capricornia
 4754,Capricornia
 4756,Capricornia
@@ -2321,32 +2669,51 @@ Postcode,Electoral division name
 4800,Dawson
 4801,Dawson
 4802,Dawson
+4802,SHUTE HARBOUR
 4803,Dawson
 4804,Capricornia
+4804,Dawson
 4805,Capricornia
 4805,Dawson
 4806,Dawson
+4807,AYR
 4807,Dawson
+4807,Kennedy
 4808,Dawson
 4809,Dawson
+4809,Kennedy
+4810,CAPE CLEVELAND
+4810,CASTLE HILL
 4810,Dawson
 4810,Herbert
 4811,Dawson
 4811,Herbert
+4811,IDALIA
+4811,Kennedy
+4811,NOME
+4811,STUART
 4812,Herbert
 4813,Herbert
+4813,TOWNSVILLE MILPO
+4814,Dawson
+4814,GARBUTT
 4814,Herbert
 4815,Herbert
 4815,Kennedy
 4816,Dawson
 4816,Kennedy
-4816,Herbert
+4816,ROLLINGSTONE
+4817,ALICE RIVER
 4817,Herbert
 4817,Kennedy
+4818,BEACH HOLM
+4818,BLUEWATER
+4818,DEERAGUN
 4818,Herbert
+4818,JENSEN
 4818,Kennedy
+4818,YABULU
 4819,Herbert
-4820,Capricornia
 4820,Kennedy
 4821,Kennedy
 4822,Kennedy
@@ -2354,6 +2721,7 @@ Postcode,Electoral division name
 4824,Kennedy
 4825,Kennedy
 4825,Lingiari
+4825,MOUNT ISA
 4828,Kennedy
 4828,Lingiari
 4829,Kennedy
@@ -2363,6 +2731,7 @@ Postcode,Electoral division name
 4850,Kennedy
 4852,Kennedy
 4854,Kennedy
+4854,TULLY
 4855,Kennedy
 4856,Kennedy
 4857,Kennedy
@@ -2376,26 +2745,37 @@ Postcode,Electoral division name
 4869,Leichhardt
 4870,Kennedy
 4870,Leichhardt
+4871,GEORGETOWN
 4871,Kennedy
 4871,Leichhardt
+4871,PETFORD
 4872,Kennedy
 4872,Leichhardt
+4872,YUNGABURRA
 4873,Leichhardt
 4874,Leichhardt
+4875,ERUB ISLAND
 4875,Leichhardt
+4875,MER ISLAND
+4875,PORUMA ISLAND
 4876,Leichhardt
 4877,Leichhardt
 4878,Leichhardt
 4879,Leichhardt
+4879,PALM COVE
 4880,Kennedy
-4880,Leichhardt
+4881,KURANDA
 4881,Kennedy
 4881,Leichhardt
 4882,Kennedy
+4882,TOLGA
+4883,ATHERTON
 4883,Kennedy
 4884,Kennedy
 4885,Kennedy
+4885,MALANDA
 4886,Kennedy
+4886,MILLAA MILLAA
 4887,Kennedy
 4888,Kennedy
 4890,Kennedy
@@ -2424,7 +2804,6 @@ Postcode,Electoral division name
 5020,Hindmarsh
 5021,Hindmarsh
 5022,Hindmarsh
-5023,Hindmarsh
 5023,Port Adelaide
 5024,Hindmarsh
 5025,Hindmarsh
@@ -2454,6 +2833,7 @@ Postcode,Electoral division name
 5051,Boothby
 5051,Mayo
 5052,Boothby
+5052,Mayo
 5061,Adelaide
 5062,Boothby
 5063,Adelaide
@@ -2588,7 +2968,12 @@ Postcode,Electoral division name
 5220,Mayo
 5221,Mayo
 5222,Mayo
+5223,AMERICAN RIVER
+5223,BROWNLOW KI
+5223,KINGSCOTE
 5223,Mayo
+5223,PARNDANA
+5223,PENNESHAW
 5231,Mayo
 5232,Mayo
 5233,Mayo
@@ -2617,11 +3002,14 @@ Postcode,Electoral division name
 5256,Barker
 5256,Mayo
 5259,Barker
+5259,RAUKKAN
 5260,Barker
 5261,Barker
 5262,Barker
 5263,Barker
 5264,Barker
+5264,COORONG
+5264,SALT CREEK
 5265,Barker
 5266,Barker
 5267,Barker
@@ -2632,6 +3020,9 @@ Postcode,Electoral division name
 5272,Barker
 5273,Barker
 5275,Barker
+5275,GREENWAYS
+5275,MOUNT BENSON
+5275,REEDY CREEK
 5276,Barker
 5277,Barker
 5278,Barker
@@ -2640,16 +3031,20 @@ Postcode,Electoral division name
 5290,Barker
 5291,Barker
 5301,Barker
+5301,LAMEROO
+5301,PARRAKIE
 5302,Barker
 5303,Barker
 5304,Barker
 5306,Barker
 5307,Barker
+5307,LAMEROO
+5307,PEEBINGA
 5308,Barker
+5308,PERPONDA
 5309,Barker
 5310,Barker
 5311,Barker
-5312,Barker
 5320,Barker
 5320,Grey
 5321,Barker
@@ -2680,6 +3075,7 @@ Postcode,Electoral division name
 5355,Wakefield
 5356,Barker
 5356,Grey
+5356,STEINFELD
 5356,Wakefield
 5357,Barker
 5360,Wakefield
@@ -2711,7 +3107,6 @@ Postcode,Electoral division name
 5432,Grey
 5433,Grey
 5434,Grey
-5440,Farrer
 5440,Grey
 5451,Wakefield
 5452,Wakefield
@@ -2793,6 +3188,7 @@ Postcode,Electoral division name
 5670,Grey
 5671,Grey
 5680,Grey
+5690,BOOKABIE
 5690,Grey
 5700,Grey
 5710,Grey
@@ -2819,6 +3215,9 @@ Postcode,Electoral division name
 6008,Curtin
 6009,Curtin
 6010,Curtin
+6010,KARRAKATTA
+6010,MT CLAREMONT
+6010,SWANBOURNE
 6011,Curtin
 6012,Curtin
 6014,Curtin
@@ -2841,9 +3240,10 @@ Postcode,Electoral division name
 6027,Moore
 6028,Moore
 6029,Stirling
+6030,Moore
 6030,Pearce
 6031,Cowan
-6031,Pearce
+6031,Moore
 6032,Pearce
 6033,Pearce
 6034,Pearce
@@ -2854,7 +3254,7 @@ Postcode,Electoral division name
 6041,Pearce
 6042,Pearce
 6043,Pearce
-6044,O'Connor
+6044,Durack
 6044,Pearce
 6050,Perth
 6050,Stirling
@@ -2868,19 +3268,17 @@ Postcode,Electoral division name
 6056,Pearce
 6057,Hasluck
 6058,Hasluck
-6059,Cowan
+6059,DIANELLA
 6059,Perth
 6059,Stirling
-6060,Curtin
 6060,Perth
 6060,Stirling
 6061,Stirling
-6062,Cowan
 6062,Perth
+6063,Pearce
 6063,Perth
 6064,Cowan
 6065,Cowan
-6065,Pearce
 6066,Cowan
 6067,Cowan
 6068,Pearce
@@ -2893,9 +3291,14 @@ Postcode,Electoral division name
 6074,Pearce
 6076,Hasluck
 6076,Pearce
+6077,Cowan
+6078,Cowan
+6078,Pearce
+6079,Pearce
 6081,Pearce
 6082,Pearce
 6083,Pearce
+6084,BULLSBROOK
 6084,Pearce
 6090,Cowan
 6100,Swan
@@ -2907,13 +3310,14 @@ Postcode,Electoral division name
 6106,Swan
 6107,Hasluck
 6107,Swan
-6108,Canning
 6108,Hasluck
 6109,Hasluck
-6110,Canning
 6110,Hasluck
+6111,CAMILLO
 6111,Canning
+6111,KELMSCOTT
 6111,Pearce
+6112,ARMADALE
 6112,Canning
 6121,Canning
 6122,Canning
@@ -2921,16 +3325,21 @@ Postcode,Electoral division name
 6124,Canning
 6125,Canning
 6126,Canning
+6147,Swan
 6147,Tangney
+6148,Swan
 6148,Tangney
 6149,Tangney
 6150,Tangney
 6151,Swan
 6152,Swan
+6153,MT PLEASANT
 6153,Tangney
 6154,Tangney
-6155,Canning
+6155,CANNING VALE
+6155,LEEMING
 6155,Tangney
+6155,WILLETTON
 6156,Fremantle
 6156,Tangney
 6157,Fremantle
@@ -2947,6 +3356,7 @@ Postcode,Electoral division name
 6166,Fremantle
 6167,Brand
 6168,Brand
+6168,PERON
 6169,Brand
 6170,Brand
 6171,Brand
@@ -2959,13 +3369,19 @@ Postcode,Electoral division name
 6181,Canning
 6207,Canning
 6208,Canning
+6208,PINJARRA
+6208,SOUTH YUNDERUP
 6209,Canning
 6210,Brand
+6210,COODANUP
 6210,Canning
+6210,DUDLEY PARK
+6210,ERSKINE
 6211,Canning
 6213,Canning
 6214,Canning
 6215,Canning
+6215,LAKE CLIFTON
 6218,Forrest
 6220,Forrest
 6221,Forrest
@@ -2979,6 +3395,7 @@ Postcode,Electoral division name
 6229,Forrest
 6230,Forrest
 6232,Forrest
+6233,AUSTRALIND
 6233,Forrest
 6236,Forrest
 6237,Forrest
@@ -2990,13 +3407,14 @@ Postcode,Electoral division name
 6251,Forrest
 6252,Forrest
 6253,Forrest
-6254,Forrest
-6255,Forrest
+6254,O'Connor
 6255,O'Connor
-6256,Forrest
+6256,O'Connor
 6258,Forrest
+6258,O'Connor
 6260,Forrest
-6262,Forrest
+6260,O'Connor
+6262,O'Connor
 6271,Forrest
 6275,Forrest
 6280,Forrest
@@ -3010,14 +3428,12 @@ Postcode,Electoral division name
 6302,Pearce
 6304,Pearce
 6306,O'Connor
-6306,Pearce
 6308,O'Connor
-6308,Pearce
-6309,Pearce
-6311,Pearce
+6309,O'Connor
+6311,O'Connor
 6312,O'Connor
-6312,Pearce
-6313,Pearce
+6313,Brand
+6313,O'Connor
 6315,O'Connor
 6316,O'Connor
 6317,O'Connor
@@ -3030,6 +3446,7 @@ Postcode,Electoral division name
 6326,O'Connor
 6327,O'Connor
 6328,O'Connor
+6330,BAYONET HEAD
 6330,O'Connor
 6333,O'Connor
 6335,O'Connor
@@ -3063,181 +3480,192 @@ Postcode,Electoral division name
 6384,O'Connor
 6385,O'Connor
 6386,O'Connor
-6390,Pearce
-6391,Pearce
+6390,Canning
+6390,O'Connor
+6391,Canning
+6391,O'Connor
 6392,O'Connor
-6392,Pearce
 6393,O'Connor
 6394,O'Connor
 6395,O'Connor
 6396,O'Connor
 6397,O'Connor
-6398,Forrest
-6401,O'Connor
+6398,O'Connor
+6401,Durack
 6401,Pearce
 6403,Pearce
-6405,O'Connor
-6407,O'Connor
-6409,O'Connor
-6410,O'Connor
-6411,O'Connor
-6412,O'Connor
-6413,Kalgoorlie
-6414,Kalgoorlie
-6415,Kalgoorlie
+6405,Durack
+6407,Durack
+6409,Durack
+6410,Durack
+6411,Durack
+6412,Durack
+6413,Durack
+6414,Durack
+6415,Durack
 6418,O'Connor
 6419,O'Connor
-6420,Kalgoorlie
+6420,Durack
 6420,O'Connor
-6421,Kalgoorlie
-6422,Kalgoorlie
-6423,Kalgoorlie
-6424,Kalgoorlie
-6425,Kalgoorlie
-6426,Kalgoorlie
-6427,Kalgoorlie
+6421,Durack
+6421,O'Connor
+6422,O'Connor
+6423,O'Connor
+6424,O'Connor
+6425,O'Connor
+6426,O'Connor
+6427,O'Connor
 6428,O'Connor
-6429,Kalgoorlie
-6430,Kalgoorlie
-6431,Kalgoorlie
-6432,Kalgoorlie
-6434,Kalgoorlie
-6436,Kalgoorlie
-6437,Kalgoorlie
-6438,Kalgoorlie
-6440,Kalgoorlie
-6442,Kalgoorlie
-6443,Kalgoorlie
-6445,Kalgoorlie
-6446,Kalgoorlie
-6447,Kalgoorlie
-6448,Kalgoorlie
-6450,Kalgoorlie
+6429,O'Connor
+6430,O'Connor
+6431,O'Connor
+6432,O'Connor
+6434,O'Connor
+6436,O'Connor
+6437,O'Connor
+6438,O'Connor
+6440,LAVERTON
+6440,O'Connor
+6442,O'Connor
+6443,O'Connor
+6445,O'Connor
+6446,O'Connor
+6447,O'Connor
+6448,O'Connor
 6450,O'Connor
-6460,O'Connor
-6461,O'Connor
-6462,O'Connor
-6463,O'Connor
-6465,O'Connor
-6466,O'Connor
-6467,O'Connor
-6468,O'Connor
-6470,O'Connor
-6472,O'Connor
-6473,O'Connor
-6475,O'Connor
-6476,O'Connor
-6477,O'Connor
-6479,Kalgoorlie
+6460,Durack
+6461,Durack
+6462,Durack
+6463,Durack
+6465,Durack
+6466,Durack
+6467,Durack
+6468,Durack
+6470,Durack
+6472,Durack
+6473,Durack
+6475,Durack
+6476,Durack
+6477,Durack
+6479,Durack
 6479,O'Connor
-6480,Kalgoorlie
-6484,Kalgoorlie
-6485,O'Connor
-6487,O'Connor
-6488,O'Connor
-6489,O'Connor
-6490,O'Connor
+6480,Durack
+6484,O'Connor
+6485,Durack
+6487,Durack
+6488,Durack
+6489,Durack
+6490,Durack
 6501,Pearce
 6502,Pearce
 6503,Pearce
 6504,Pearce
 6505,Pearce
-6506,O'Connor
-6507,O'Connor
-6509,O'Connor
-6510,O'Connor
-6511,O'Connor
-6512,O'Connor
-6513,O'Connor
-6514,O'Connor
-6515,O'Connor
-6516,O'Connor
-6517,O'Connor
-6518,O'Connor
-6519,O'Connor
-6521,O'Connor
-6522,O'Connor
-6525,O'Connor
-6528,O'Connor
-6530,Kalgoorlie
-6530,O'Connor
-6532,Kalgoorlie
-6532,O'Connor
-6535,Kalgoorlie
-6536,Kalgoorlie
-6537,Kalgoorlie
+6506,Durack
+6507,Durack
+6509,Durack
+6510,Durack
+6511,Durack
+6512,Durack
+6513,Durack
+6514,Durack
+6515,Durack
+6516,Durack
+6517,Durack
+6518,Durack
+6519,Durack
+6521,Durack
+6522,Durack
+6525,Durack
+6528,Durack
+6530,Durack
+6532,Durack
+6535,Durack
+6536,Durack
+6537,Durack
 6556,Pearce
 6558,Pearce
 6560,Pearce
 6562,Pearce
 6564,Pearce
-6566,O'Connor
+6566,Durack
 6566,Pearce
 6567,Pearce
-6568,O'Connor
+6568,Durack
 6568,Pearce
-6569,O'Connor
-6571,O'Connor
-6572,O'Connor
-6574,O'Connor
-6575,O'Connor
-6603,O'Connor
-6605,O'Connor
-6606,O'Connor
-6608,O'Connor
-6609,O'Connor
-6612,Kalgoorlie
-6612,O'Connor
-6613,O'Connor
-6614,O'Connor
-6616,O'Connor
-6620,O'Connor
-6623,O'Connor
-6625,O'Connor
-6627,O'Connor
-6628,Kalgoorlie
-6630,Kalgoorlie
-6631,Kalgoorlie
-6632,Kalgoorlie
-6635,Kalgoorlie
-6638,Kalgoorlie
-6639,Kalgoorlie
-6640,Kalgoorlie
-6642,Kalgoorlie
-6646,Kalgoorlie
-6701,Kalgoorlie
-6705,Kalgoorlie
-6707,Kalgoorlie
-6710,Kalgoorlie
-6712,Kalgoorlie
-6713,Kalgoorlie
-6714,Kalgoorlie
-6716,Kalgoorlie
-6718,Kalgoorlie
-6720,Kalgoorlie
-6721,Kalgoorlie
-6722,Kalgoorlie
-6725,Kalgoorlie
-6726,Kalgoorlie
-6728,Kalgoorlie
-6731,Kalgoorlie
-6733,Kalgoorlie
-6740,Kalgoorlie
-6743,Kalgoorlie
+6569,Durack
+6571,Durack
+6572,Durack
+6574,Durack
+6575,Durack
+6603,Durack
+6605,Durack
+6606,Durack
+6608,Durack
+6609,Durack
+6612,Durack
+6613,Durack
+6614,Durack
+6616,Durack
+6620,Durack
+6623,Durack
+6625,Durack
+6627,Durack
+6628,Durack
+6630,Durack
+6631,Durack
+6632,Durack
+6635,Durack
+6638,Durack
+6639,Durack
+6640,Durack
+6642,Durack
+6646,Durack
+6701,Durack
+6705,Durack
+6707,Durack
+6710,Durack
+6712,Durack
+6713,Durack
+6714,Durack
+6716,Durack
+6718,Durack
+6720,Durack
+6721,Durack
+6722,Durack
+6725,BROOME
+6725,DAMPIER PENINSULA
+6725,DERBY
+6725,Durack
+6725,LAGRANGE
+6726,Durack
+6728,DERBY
+6728,Durack
+6731,Durack
+6733,Durack
+6740,Durack
+6743,AMANBIDJI
+6743,Durack
 6743,Lingiari
-6751,Kalgoorlie
-6753,Kalgoorlie
-6754,Kalgoorlie
-6758,Kalgoorlie
-6760,Kalgoorlie
-6762,Kalgoorlie
-6765,Kalgoorlie
-6770,Kalgoorlie
+6751,Durack
+6753,Durack
+6753,NEWMAN
+6754,Durack
+6758,Durack
+6760,Durack
+6762,Durack
+6765,Durack
+6765,FITZROY CROSSING
+6770,Durack
+6770,HALLS CREEK
 6798,Lingiari
+6799,HOME ISLAND
 6799,Lingiari
+6799,WEST ISLAND
 7000,Denison
 7004,Denison
 7005,Denison
+7005,SANDY BAY
 7007,Denison
 7008,Denison
 7009,Denison
@@ -3257,20 +3685,21 @@ Postcode,Electoral division name
 7022,Franklin
 7023,Franklin
 7024,Franklin
+7025,Franklin
 7025,Lyons
+7026,Franklin
 7026,Lyons
 7027,Lyons
 7030,Denison
-7030,Franklin
 7030,Lyons
 7050,Denison
 7050,Franklin
 7052,Franklin
 7053,Denison
-7053,Franklin
 7054,Denison
 7054,Franklin
 7055,Franklin
+7109,Denison
 7109,Franklin
 7112,Franklin
 7113,Franklin
@@ -3280,12 +3709,14 @@ Postcode,Electoral division name
 7120,Lyons
 7139,Lyons
 7140,Lyons
+7150,Denison
 7150,Franklin
 7155,Franklin
 7162,Franklin
 7163,Franklin
 7170,Franklin
 7171,Lyons
+7172,Franklin
 7172,Lyons
 7173,Lyons
 7174,Lyons
@@ -3312,6 +3743,7 @@ Postcode,Electoral division name
 7215,Lyons
 7216,Lyons
 7248,Bass
+7248,NEWNHAM
 7249,Bass
 7249,Lyons
 7250,Bass
@@ -3320,11 +3752,13 @@ Postcode,Electoral division name
 7253,Bass
 7254,Bass
 7255,Bass
+7255,LADY BARRON
 7256,Braddon
 7257,Bass
 7258,Bass
 7258,Lyons
 7259,Bass
+7259,TARGA
 7260,Bass
 7261,Bass
 7262,Bass
@@ -3335,8 +3769,8 @@ Postcode,Electoral division name
 7267,Bass
 7268,Bass
 7270,Lyons
-7275,Braddon
 7275,Lyons
+7275,SWAN POINT
 7276,Lyons
 7277,Bass
 7277,Lyons
@@ -3349,23 +3783,22 @@ Postcode,Electoral division name
 7302,Lyons
 7303,Lyons
 7304,Lyons
-7305,Braddon
 7305,Lyons
 7306,Lyons
 7307,Braddon
+7307,Lyons
 7310,Braddon
 7310,Lyons
 7315,Braddon
 7316,Braddon
 7320,Braddon
 7321,Braddon
-7321,Lyons
 7322,Braddon
 7325,Braddon
 7330,Braddon
 7331,Braddon
-7466,Lyons
-7467,Lyons
-7468,Lyons
-7469,Lyons
-7470,Lyons
+7466,Braddon
+7467,Braddon
+7468,Braddon
+7469,Braddon
+7470,Braddon

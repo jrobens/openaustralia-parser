@@ -1,3 +1,9 @@
 h1. The OpenAustralia Hansard Parser 
 
 See for installation instructions http://software.openaustralia.org/install-parser.html
+
+
+
+> sudo gem install ruby-mysql
+
+(not mysql)

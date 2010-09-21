@@ -21,6 +21,12 @@
     </requirement>
     <requirement>
       <requirement>
+        <dependency name="i18n" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="log4r" version="0" bound="GREATER_OR_EQUAL" />
       </requirement>
       <source from="lib/environment.rb" />
@@ -30,6 +36,12 @@
         <dependency name="mechanize" version="0.9.2" bound="GREATER_OR_EQUAL" />
       </requirement>
       <source from="lib/environment.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mysql" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source manual="true" />
     </requirement>
     <requirement>
       <requirement>
@@ -64,6 +76,8 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] builder (v2.1.2, /Users/johnrobens/.gem/ruby/1.8/gems/builder-2.1.2)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] htmlentities (v4.2.1, /Users/johnrobens/.gem/ruby/1.8/gems/htmlentities-4.2.1)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.0, /Users/johnrobens/.gem/ruby/1.8/gems/activesupport-3.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mysql (v2.8.1, /Library/Ruby/Gems/1.8/gems/mysql-2.8.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.4.1, /Library/Ruby/Gems/1.8/gems/i18n-0.4.1)" level="application" />
   </component>
 </module>
 

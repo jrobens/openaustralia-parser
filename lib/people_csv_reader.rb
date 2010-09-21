@@ -80,8 +80,13 @@ class PeopleCSVReader
   def PeopleCSVReader.read_members(people_filename = "#{File.dirname(__FILE__)}/../data/people.csv",
       representatives_filename = "#{File.dirname(__FILE__)}/../data/representatives.csv",
       senators_filename = "#{File.dirname(__FILE__)}/../data/senators.csv")
+    puts "reading #{people_filename}..."
     people = read_people(people_filename)
+
+    puts "reading #{representatives_filename}..."
     read_members_csv(people, representatives_filename, House.representatives)
+
+    puts "reading #{senators_filename}..."
     read_members_csv(people, senators_filename, House.senate)    
   end
   
