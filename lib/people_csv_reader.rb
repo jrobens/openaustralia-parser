@@ -38,6 +38,7 @@ class PeopleCSVReader
   end
   
   def PeopleCSVReader.read_members_csv(people, filename, house)
+    puts "Reading people data from #{filename}"
     data = read_raw_csv(filename)
     # Remove the first two elements
     data.shift
