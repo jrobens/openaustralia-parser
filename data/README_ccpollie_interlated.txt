@@ -8,6 +8,9 @@ alter table member add column member_id bigint not null auto_increment key;
 2. Gems
 
 gem install dbi
+gem install dbd-mysql
+
+3. Run 
 
 
 
@@ -41,5 +44,14 @@ member_id|data_key|data_value|lastupdate
 e.g.
 12|email|julia.gillard.MP@aph.gov.au|...
 
+SELECT member_id, house, title, first_name, last_name, constituency, party, entered_house, left_house, entered_reason, left_reason, member_id FROM member WHERE member_id = '927' ORDER BY left_house DESC, house
 
-    
+
+Querying
+
+http://openoz.scmedia.net.au/mp/openoz_memberemail.php?postcode=2038
+
+SELECT mem.member_id, mem.house, mem.title, mem.first_name, mem.last_name, mem.constituency, mem.party, mem.entered_house, mem.left_house, mem.entered_reason, mem.left_reason, mem.member_id, info.data_value as email 
+FROM member mem INNER JOIN memberinfo info ON mem.member_id = info.member_id
+WHERE mem.member_id = '927'  AND info.data_key = 'email'
+ORDER BY mem.left_house DESC, mem.house;
