@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# Make sure only one copy runs at once
+if [ x$LOCKFILE = x ]
+then
+        ./run-with-lockfile -n rssgenerate-lockfile $0
+        if [ $? = 100 ]
+        then
+                echo "Another copy of rssgenerate is already running" 1>&2
+        fi
+        exit $?
+fi
+
+# Check Xapian index is correct
+# Far too slow to be run in daily process
+#cd ~/fawkes/search
+#./index.pl ~/searchdb/ check $CRONQUIET_NODASH
+
+# Make RSS this takes a while
+./make_rss.pl
+php -q mprss.php
+

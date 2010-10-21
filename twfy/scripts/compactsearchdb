@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# compactsearchdb. Compacts the Xapian search database using xapian-compact.
+
+#set -x  # for debugging, prints each line before executing it
+set -e
+
+source consts
+source ../../shlib/deployfns
+read_conf "../conf/general"
+
+# Make sure only one copy runs at once
+if [ x$LOCKFILE = x ]
+then
+        ./run-with-lockfile -n morningupdate-lockfile $0
+        if [ $? = 100 ]
+        then
+                echo "morningupdate or compactsearchdb is already running" 1>&2
+        fi
+        exit $?
+fi
+
+# Go to the directory where the search directory exists
+cd $XAPIANDB/..
+
+rm -fr searchdb-compacted
+xapian-compact $XAPIANDB searchdb-compacted/ >/dev/null
+rm -fr searchdb-previous
+mv $XAPIANDB searchdb-previous
+mv searchdb-compacted $XAPIANDB
+
+

@@ -1,0 +1,18 @@
+Subject:Thanks for telling us about a comment which concerns you
+Hi {FIRSTNAME},
+
+Thanks for letting us know that you think the following comment on OpenAustralia.org breaches our House Rules: {COMMENTURL}
+
+We appreciate you taking the time to do this. We'll look into it as soon as we can, and will let you know what happens.
+
+Our House Rules are published here: 
+http://www.openaustralia.org/houserules/
+
+Best wishes,
+
+ - The OpenAustralia.org volunteers
+
+
+Your report:
+
+{REPORTBODY}

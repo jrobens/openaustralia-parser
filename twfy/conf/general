@@ -1,0 +1,33 @@
+<?php
+define ("DB_HOST", "localhost");
+define ("DB_USER", "mrn_d_openoz");
+define ("DB_PASSWORD", "mrn_d_openoz");
+define ("DB_NAME", "mrn_d_openoz");
+define ("DOMAIN", "openoz.scmedia.net.au");
+define ("COOKIEDOMAIN", "openoz.scmedia.net.au");
+define ("CONTACTEMAIL", "martin@mountainriver.net");
+define ("BASEDIR","/var/www/vhosts/scmedia.net.au/sub/openoz/twfy/www/docs/"); 
+define ("WEBPATH", "/");
+define ("DEVSITE", true);
+define ("DEBUGTAG", 'debug');
+define ("TIMEZONE", "Australia/Sydney");
+define ("RAWDATA", "/var/www/vhosts/scmedia.net.au/sub/openoz/pwdata/");
+define ('PWMEMBERS', '/var/www/vhosts/scmedia.net.au/sub/openoz/pwdata/members/');
+define ("DBBACKUP", "/var/www/vhosts/scmedia.net.au/sub/openoz/backup/");
+define ("INCLUDESPATH", BASEDIR . "/../includes/");
+define ("IMAGEPATH", WEBPATH . "images/");
+define ("FILEIMAGEPATH", BASEDIR . "images/");
+define ("REGMEMPDFPATH", "regmem/scan/");
+define ("METADATAPATH", BASEDIR . "/../includes/easyparliament/metadata.php");
+define ("XAPIANDB", '');
+define ("REPORTLIST", CONTACTEMAIL);
+define ("BCCADDRESS", CONTACTEMAIL);
+define ("BUGSLIST", CONTACTEMAIL);
+define('ALERT_STATS_EMAILS', CONTACTEMAIL);
+define ('ALERT_STATS_SENDER', CONTACTEMAIL);
+define('OPTION_TRACKING_SECRET', 'really-secret-value');
+define('OPTION_AUTH_SHARED_SECRET', '');
+define('OPTION_PHP_DEBUG_LEVEL', 0);
+define('PINGMYMAP_API_KEY', '0123456789abcdef0123456789abcdef');
+define('ADDTHIS_USERNAME', CONTACTEMAIL);
+

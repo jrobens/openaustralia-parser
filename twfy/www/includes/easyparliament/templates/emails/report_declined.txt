@@ -1,0 +1,17 @@
+Subject: Sorry, but we're not going to remove the comment you reported to us
+Hi {FIRSTNAME},
+
+Thanks for reporting this comment at OpenAustralia.org, which you felt was in breach of our House Rules: {COMMENTURL}
+
+We appreciate you taking the time to contact us. However, in this instance we've decided not to remove this comment because {REASON}.
+
+Our House Rules are published here: http://www.openaustralia.org/houserules/ 
+
+Best wishes,
+
+- The OpenAustralia.org volunteers
+
+
+Your report:
+
+{REPORTBODY}
